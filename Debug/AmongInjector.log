@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Darwin\source\repos\AmongInjector\AmongInjector\main.cpp(16): warning C4715: chooseDLL: значение возвращается не при всех путях выполнения
+  AmongInjector.vcxproj -> C:\Users\Darwin\source\repos\AmongInjector\Debug\AmongInjector.exe
