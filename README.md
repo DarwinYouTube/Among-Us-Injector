@@ -1,4 +1,4 @@
-# [ENG] Among-Us-Injector
+# Among-Us-Injector
 The injector for the game Among Us on Unity
 
 # Writing the injector on Among Us:
